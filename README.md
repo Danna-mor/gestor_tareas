@@ -11,3 +11,6 @@ Preparar la estructura inicial de un proyecto utilizando control de versiones.
 
 ## Autor
 Danna Moreno
+
+## Estado del proyecto
+Proyecto en etapa inicial.
