@@ -1,0 +1,15 @@
+## Respuestas
+¿Cuál es la diferencia entre Git y GitHub?
+Respuesta: lo dira por el espacio pero lo mas logico es el trabajo en equipo en linea
+2. ¿Qué función cumple el área de stage?
+Respuesta: el guardado o el estado
+3. ¿Para qué sirve un commit?
+Respuesta: para poner las actualizaciones
+4. ¿Cuál es la función del archivo .gitignore?
+Respuesta: son las limitaciones
+5. ¿Por qué no debe almacenarse normalmente el entorno virtual .venv en GitHub?
+Respuesta: si se quiere un trabajo entre varias personas esta es la opcion
+6. ¿Qué relación existe entre el repositorio local y el repositorio remoto?
+Respuesta: un puente y yn alivio para las personas
+7. ¿Qué diferencia existe entre ejecutar commit y ejecutar push?
+Respuesta: uno para actualizaciones y el otro para enviar
